@@ -20,7 +20,10 @@ Motor de regras de manutenção preventiva de pneus: classificação de severida
 Pipeline n8n + IA de visão pra ler fichas de manutenção manuscritas — com uma camada em Python que valida a extração antes de qualquer gravação, sinalizando os padrões de erro de OCR já vividos em produção em vez de confiar cego na IA.
 
 **🚦 [fleet-maintenance-priority-engine](https://github.com/siandrosena/fleet-maintenance-priority-engine)**
-Diagnóstico automático de roda (alinhar vs. calibrar, a partir de 4 leituras de sulco) e motor de score que cruza várias categorias de inspeção pra dizer qual veículo da frota olhar primeiro. Generalizado de um sistema real em produção (Sheets + Apps Script).
+Diagnóstico automático de roda (alinhar vs. calibrar, a partir de 4 leituras de sulco) e motor de score que cruza várias categorias de inspeção pra dizer qual veículo da frota olhar primeiro. Generalizado de um sistema real em produção (Sheets + Apps Script), com seção honesta de limitações conhecidas.
+
+**🔧 [n8n-nodes-wheel-diagnosis](https://github.com/siandrosena/n8n-nodes-wheel-diagnosis)**
+A mesma regra de diagnóstico de roda, embrulhada como community node nativo do n8n (TypeScript, tipado contra a API real do n8n) — pra rodar dentro do editor visual sem precisar de um passo de código externo.
 
 ---
 
