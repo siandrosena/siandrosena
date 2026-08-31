@@ -27,6 +27,10 @@ A mesma regra de diagnóstico de roda, embrulhada como community node nativo do 
 
 ---
 
+Também levo isso pra prática de consultoria: [diagnóstico de priorização de frota](https://siandrosena.github.io/diagnostico-frota/) aplica essa mesma lógica como serviço, direto pra quem gerencia frota hoje.
+
+---
+
 Aberto a oportunidade remota em automação de processos, dados e IA.
 
 [LinkedIn](https://www.linkedin.com/in/siandro-sena-847712314)
