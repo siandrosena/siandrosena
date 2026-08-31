@@ -25,6 +25,9 @@ Diagnóstico automático de roda (alinhar vs. calibrar, a partir de 4 leituras d
 **🔧 [n8n-nodes-wheel-diagnosis](https://github.com/siandrosena/n8n-nodes-wheel-diagnosis)**
 A mesma regra de diagnóstico de roda, embrulhada como community node nativo do n8n (TypeScript, tipado contra a API real do n8n) — pra rodar dentro do editor visual sem precisar de um passo de código externo.
 
+**⏱️ [garage-dwell-time-tracker](https://github.com/siandrosena/garage-dwell-time-tracker)**
+Estudo de tempos e movimentos automatizado — mede quanto tempo cada pessoa fica perto de um veículo em manutenção, usando YOLOv8+ByteTrack, sem prancheta nem cronômetro manual.
+
 ---
 
 Também levo isso pra prática de consultoria: [diagnóstico de priorização de frota](https://siandrosena.github.io/diagnostico-frota/) aplica essa mesma lógica como serviço, direto pra quem gerencia frota hoje.
