@@ -2,11 +2,13 @@
 
 Engenheiro de Produção (com base em Engenharia de Materiais) migrando para automação de processos, dados e IA. MBA em Inteligência Artificial.
 
-Ponto de partida é sempre o **processo real** — a automação vem depois, pra resolver um problema que eu já entendi de dentro, não pra empilhar ferramenta.
+Minha base é mapear processo antes de tocar em ferramenta — é o que Engenharia de Produção ensina. Os projetos abaixo são todos do mesmo domínio (frota/transporte) de propósito, pra mostrar profundidade — mas a habilidade por trás é genérica: entender qualquer processo real de perto o suficiente pra saber o que vale automatizar, com o quê, e o que NÃO vale a pena virar sistema.
 
 **Stack:** n8n · Python · Google Apps Script · Google Workspace (Sheets/Drive) · agentes de IA (LLMs de visão e texto) · visão computacional (YOLOv8, ByteTrack, OpenCV)
 
 ---
+
+Nem todo processo automatizado devia virar app: boa parte do que mantenho em produção roda direto em Google Sheets + Apps Script — dashboard multi-fonte, validação de dado na entrada, alertas automáticos — porque é a ferramenta que quem usa já sabe abrir, sem precisar de deploy nem de mim no meio.
 
 #### Projetos
 
